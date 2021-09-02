@@ -1,6 +1,6 @@
 #add implementation
 def add(x,y):
-	pass
+	return x+y         #on branch bug456
 #sub implementation	
 def subtract(x,y):
 	pass

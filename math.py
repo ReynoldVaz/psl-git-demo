@@ -7,6 +7,6 @@ def subtract(x,y):
 #mul implementation	
 def multiply(x,y):
 	pass
-	
+#div implementation	
 def divide(x,y):
 	pass	

@@ -1,2 +1,2 @@
 # psl-git-demo
-demo for git
+demo for git update readme
